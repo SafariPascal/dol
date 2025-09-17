@@ -1,10 +1,10 @@
 <?php
 class Myclass {
     public function heading() {
-        echo "Welcome to BBIT DevOps !";
+        echo "Welcome to BBIT Sem2 !!";
     }
     public function myMethod() {
-        echo "<p> This is a new semester. </p>";
+        echo "<p> Welcome to the new semester. </p>";
     }
 
     public function footer () {
