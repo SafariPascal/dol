@@ -8,7 +8,6 @@ $conf['site_url'] = "http://localhost/dol";
 $conf['language'] = "en";
 
 // Database constants
-$conf['db_type'] = "pdo";
 $conf['db_host'] = "localhost";
 $conf['db_user'] = "root";
 $conf['db_pass'] = "";
